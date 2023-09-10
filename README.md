@@ -5,7 +5,7 @@
 
 # << Description & Key Features of this Platform >>
 
-### It is a movie reviewing platform. where anyone after creating your account and login can :-
+### It is a movie reviewing platform. where anyone after creating their account and login can :-
 
  1.> Share your thought or opinion on your particular watched listed movies.
 
