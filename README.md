@@ -7,7 +7,7 @@
 
 ### It is a movie reviewing platform. where anyone after creating their account and login can :-
 
- 1.> Share your thought or opinion on your particular watched listed movies.
+ 1.> Share your thought or opinion on that particular movie which is listed.
 
  2.> Here You can also gives rating in Stars.
 
