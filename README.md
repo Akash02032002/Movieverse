@@ -16,17 +16,17 @@
 
 # << Technologies Used >>
 
-## << Frontend >>
+### << Frontend >>
 
-### { HTML, CSS, JavaScript, React.js, React Bootstrap, TailwindCSS }
+#### { HTML, CSS, JavaScript, React.js, React Bootstrap, TailwindCSS }
 
-## << Backend >>
+#### << Backend >>
 
-### { Node.js }
+#### { Node.js }
 
-## << DATABASE >>
+### << DATABASE >>
 
-### {{ FIREBASE }}
+#### {{ FIREBASE }}
 
 
 
