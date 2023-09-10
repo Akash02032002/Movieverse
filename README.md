@@ -1,5 +1,9 @@
 # << Movieverse >>
 
+# Live Hosted Website Link :-
+
+https://movieverse-kappa.vercel.app/
+
 <img width="960" alt="Screenshot 2023-09-10 121710" src="https://github.com/Akash02032002/Movieverse/assets/84145371/e08ed7d3-6f84-4e18-8e66-85be14b7341f">
 
 
@@ -9,9 +13,9 @@
 
  1.> Share your thought or opinion on that particular movie which is listed.
 
- 2.> Here You can also gives rating in Stars.
+ 2.> Here You can also give rating in Stars.
 
- 3.> And One of the best feature of this platform here you can also add your favourite movies for reviewing.
+ 3.> And One of the best feature of this platform that here you can also add your favourite movies for reviewing.
 
 
 # << Technologies Used >>
@@ -75,6 +79,40 @@
 ### 11.> Now if You also want to Share Your Rating and Thoughts then click on that movie again and give Your Rating and Opinion.
 
 <img width="959" alt="Screenshot 2023-09-08 213725" src="https://github.com/Akash02032002/Movieverse/assets/84145371/6e6f2ebe-6705-4127-b0fc-7c14840e5060">
+
+
+# << To locally Run this Application in your PC . >>
+
+1.> First of All Open your VSCode terminal and run this command.
+
+git clone https://github.com/Akash02032002/Movieverse.git
+
+2.> cd <your App Name>
+
+3.>Run "npm install"
+
+4.> Setup your Firebase and to connent with your application copy and paste
+
+const firebaseConfig = {
+  apiKey: process.env.REACT_APP_API_KEY,
+  authDomain: process.env.REACT_APP_authDomain,
+  projectId: process.env.REACT_APP_projectId,
+  storageBucket: process.env.REACT_APP_storageBucket,
+  messagingSenderId: process.env.REACT_APP_messagingSenderId,
+  appId: process.env.REACT_APP_appId
+};
+
+from your FireBase Account.
+
+5.> create a '.env.local' in root file where paste your :-
+{  apiKey, authDomain, projectId, storageBucket, messagingSenderId, appId }
+
+to prevent your application from malicious Activity.
+
+## << Keep Smilling & Happy Learning >>
+
+# Thank You.
+
 
 
 
