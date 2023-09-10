@@ -42,7 +42,7 @@
 
 <img width="960" alt="Screenshot 2023-09-08 212305" src="https://github.com/Akash02032002/Movieverse/assets/84145371/37e83dcb-9244-4d88-83a0-eca80579bd93">
 
-### 4.> Fill the OTP number which comes in your mobile's message and click on "Confirm OPT" Button.
+### 4.> Fill the OTP number which comes on your mobile's message and click on "Confirm OPT" Button.
 
 <img width="960" alt="Screenshot 2023-09-08 212417" src="https://github.com/Akash02032002/Movieverse/assets/84145371/4c044315-7fd4-44da-8249-41d758351c88">
 
@@ -52,8 +52,33 @@
 
 ### 6.> Now your on the Home page of the Movieverse Platform
 
-
 <img width="960" alt="Screenshot 2023-09-10 123542" src="https://github.com/Akash02032002/Movieverse/assets/84145371/e92799ab-9985-4d91-ab9a-a325974b1019">
+
+### 7.> Now you can click on any movie from the list and give your valuable "Opinion and Rating".
+
+<img width="960" alt="Screenshot 2023-09-10 124232" src="https://github.com/Akash02032002/Movieverse/assets/84145371/cf84eaa2-ec77-44b3-8c9f-c0d0f2a2eedd">
+
+### 8.> And Share to the World.
+
+<img width="960" alt="Screenshot 2023-09-10 124305" src="https://github.com/Akash02032002/Movieverse/assets/84145371/1b05081c-e9d1-4847-9c59-f71a59708572">
+
+### 9.> Now click on Movieverse Logo to back on the Home page of this platform. And IF want to add your Favourite or Watched movie in this list, then Click on " + Add New" Button. 
+
+<img width="960" alt="Screenshot 2023-09-10 123542" src="https://github.com/Akash02032002/Movieverse/assets/84145371/50655c08-5409-4520-b4f6-9a0689cc4f24">
+
+### 10.> Now Fill the Required fields like :- { Tite (Movie's Name), Year (of release), Movie's HD Image Link & Description about Movie. }. And Click on "Submit" Button.
+
+
+<img width="960" alt="Screenshot 2023-09-08 213440" src="https://github.com/Akash02032002/Movieverse/assets/84145371/becb8a9a-5bdc-4e74-ba59-74ae51c0add7">
+
+
+### 11.> Now if You also want to Share Your Rating and Thoughts then click on that movie again and give Your Rating and Opinion.
+
+<img width="959" alt="Screenshot 2023-09-08 213725" src="https://github.com/Akash02032002/Movieverse/assets/84145371/6e6f2ebe-6705-4127-b0fc-7c14840e5060">
+
+
+
+
 
 
 
