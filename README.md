@@ -5,16 +5,16 @@
 
 # << Description & Key Features of this Platform >>
 
-## It is a movie reviewing platform. where anyone after creating your account and login can :-
+### It is a movie reviewing platform. where anyone after creating your account and login can :-
 
-### 1.> Share your thought or opinion on your particular watched listed movies.
+ 1.> Share your thought or opinion on your particular watched listed movies.
 
-### 2.> Here You can also gives rating in Stars.
+ 2.> Here You can also gives rating in Stars.
 
-### 3.> And One of the best feature of this platform here you can also add your favourite movies for reviewing.
+ 3.> And One of the best feature of this platform here you can also add your favourite movies for reviewing.
 
 
-## << Technologies Used >>
+# << Technologies Used >>
 
 ## << Frontend >>
 
