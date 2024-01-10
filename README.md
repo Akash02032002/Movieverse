@@ -94,15 +94,18 @@ git clone https://github.com/Akash02032002/Movieverse.git
 4.> Setup your Firebase and to connent with your application copy and paste below command in your Firebase file.
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_API_KEY,
-  authDomain: process.env.REACT_APP_authDomain,
-  projectId: process.env.REACT_APP_projectId,
-  storageBucket: process.env.REACT_APP_storageBucket,
-  messagingSenderId: process.env.REACT_APP_messagingSenderId,
+    
+  apiKey:process.env.REACT_APP_API_KEY,
+  authDomain:process.env.REACT_APP_authDomain,
+  projectId:process.env.REACT_APP_projectId,
+  storageBucket:process.env.REACT_APP_storageBucket,
+  messagingSenderId:process.env.REACT_APP_messagingSenderId,
   appId: process.env.REACT_APP_appId
+
 };
 
 from your FireBase Account.
+
 
 5.> create a '.env.local' in root file where paste your :-
 {  apiKey, authDomain, projectId, storageBucket, messagingSenderId, appId }
