@@ -33,6 +33,10 @@ https://movieverse-kappa.vercel.app/
 
 #### {{ FIREBASE }}
 
+### << Authentication >>
+
+#### {{ FIREBASE }}
+
 # << To Go through this Platform >>
 
 1.> First of all go to Login Button.
