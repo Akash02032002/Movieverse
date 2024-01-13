@@ -4,7 +4,8 @@
 
 https://movieverse-kappa.vercel.app/
 
-<img width="960" alt="Screenshot 2023-09-10 121710" src="https://github.com/Akash02032002/Movieverse/assets/84145371/e08ed7d3-6f84-4e18-8e66-85be14b7341f">
+
+<img width="962" alt="Movieverse Poster" src="https://github.com/Akash02032002/Movieverse/assets/84145371/fc2660f1-b5e3-4c4d-80c6-cbe42676501a">
 
 
 # << Description & Key Features of this Platform >>
@@ -36,7 +37,9 @@ https://movieverse-kappa.vercel.app/
 
 1.> First of all go to Login Button.
 
-<img width="960" alt="Screenshot 2023-09-10 121710" src="https://github.com/Akash02032002/Movieverse/assets/84145371/a57c2d63-9523-451b-9537-0e3e722c9605">
+
+<img width="962" alt="Movieverse Poster" src="https://github.com/Akash02032002/Movieverse/assets/84145371/b41d49b0-a35c-4aa5-b3a6-06defdb615b5">
+
 
 2.> If Your are a new member then Click on SignUp Button.
 
